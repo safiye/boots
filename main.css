@@ -303,6 +303,9 @@ textarea {
 .body{
     font-family:"Oswald","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
+
+/* menu kıismi stil baslangici*/
+
 li {
     position: relative;
     display: inline;
@@ -326,7 +329,8 @@ li {
     margin-left: 70px;
     margin-top: 30px;
     margin-bottom: 10px;
-   
+    
+  /* slider stil baslagici*/ 
 }
 .slider {
    
@@ -382,6 +386,9 @@ margin-top: -90px;
     margin-top: -12px;
     float: left;
 }
+
+/* recent kismi stil baslangici*/
+
 .recent{
     float: left;
     margin-top: 100px;
