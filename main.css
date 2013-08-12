@@ -312,6 +312,12 @@ li {
     margin: 0 20px 20px 20px;
 	color: white;
 }
+a:hover{
+    background-color: rgb(220,224,207);
+    text-decoration: none;
+    width: 200px;
+    height: 60px;
+}
 .menu {
     float: right;
     margin-top: -16px;
