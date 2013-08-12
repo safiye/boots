@@ -1,1 +1,1 @@
-readme yazısı
+README.md
