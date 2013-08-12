@@ -325,15 +325,15 @@ a:hover{
     padding: 10px;
     border-radius: 5px;
     box-shadow: inset 2px 1px 5px #999999;
-    color: #2E1F0F;
+    color: rgb(83,86,78);
 }
 a:link{
     padding: 10px;
     border-radius: 5px;
-    color: #2E1F0F;
+    color: rgb(83,86,78)
 }
 a {
-    color: #2E1F0F;
+    color: rgb(83,86,78)
 }
 .menu {
     float: right;
@@ -350,11 +350,15 @@ a {
 }
 .header > p {
     margin-left: 70px;
-    margin-top: 25px;
+    margin-top: 19px;
     margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(83,86,78)
+
+;
 
 }
-
  /* slider stil baslagici*/
 
 .slider {
