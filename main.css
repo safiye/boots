@@ -306,7 +306,6 @@ textarea {
 
 /* menu kıismi stil baslangici*/
 
-
 li {
     position: relative;
     display: inline;
@@ -325,10 +324,11 @@ a:hover{
     height: 60px;
     padding: 10px;
     border-radius: 5px;
+    box-shadow: inset 2px 1px 5px #999999;
 }
 a:link{
     padding: 10px;
-    border-radius: 5px
+    border-radius: 5px;
 }
 
 .menu {
