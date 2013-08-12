@@ -305,7 +305,6 @@ textarea {
 }
 
 /* menu kıismi stil baslangici*/
-
 li {
     position: relative;
     display: inline;
@@ -315,6 +314,7 @@ li {
     width: 100px;
     display: inline;
     margin-left: -10px;
+    color: #2E1F0F;
 
 }
 a:hover{
@@ -325,32 +325,38 @@ a:hover{
     padding: 10px;
     border-radius: 5px;
     box-shadow: inset 2px 1px 5px #999999;
+    color: #2E1F0F;
 }
 a:link{
     padding: 10px;
     border-radius: 5px;
+    color: #2E1F0F;
 }
-
+a {
+    color: #2E1F0F;
+}
 .menu {
     float: right;
-    margin-top: -16px;
+    margin-top: -17px;
 }
 .header{
-    height: 80px;
-     background-color: #E6EBE6;
-      position: fixed;
+    height: 70px;
+    background-color: #E6EBE6;
+    position: fixed;
     z-index: 2;
     width: 100%;
     margin-top: -20px;
-    
+
 }
 .header > p {
     margin-left: 70px;
-    margin-top: 30px;
+    margin-top: 25px;
     margin-bottom: 10px;
-    
-  /* slider stil baslagici*/ 
+
 }
+
+ /* slider stil baslagici*/
+
 .slider {
    
     background-color: #527A7A;
