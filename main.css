@@ -306,18 +306,31 @@ textarea {
 
 /* menu kıismi stil baslangici*/
 
+
 li {
     position: relative;
     display: inline;
     margin: 0 20px 20px 20px;
-	color: white;
+    color: white;
+    padding: 10px;
+    width: 100px;
+    display: inline;
+    margin-left: -10px;
+
 }
 a:hover{
     background-color: rgb(220,224,207);
     text-decoration: none;
     width: 200px;
     height: 60px;
+    padding: 10px;
+    border-radius: 5px;
 }
+a:link{
+    padding: 10px;
+    border-radius: 5px
+}
+
 .menu {
     float: right;
     margin-top: -16px;
