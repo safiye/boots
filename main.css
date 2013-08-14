@@ -378,12 +378,12 @@ a {
 .btn-group {
     margin-left: 520px;
 }
-.thumbnails{
+.rows{
     float:left;
     width: 100%;
     height: auto;
 }
-.thumbnail{
+.rows-img{
     float: left;
     margin-top: 40px;
     width: 100%;
@@ -432,10 +432,7 @@ margin-top: -90px;
  
     background-color: black;
 }
-.span3 > img{
-    margin: 10px 10px -100px 10px;
-    
-}
+
 .recent > .span3{
     margin-top: -80px;
 }
