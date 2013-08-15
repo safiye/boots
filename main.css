@@ -375,6 +375,10 @@ a {
 .slider > p {
     text-align: center;
 }
+.rows{
+    margin: 10px auto auto 54px;
+    float: ;
+}
 .btn-group {
     margin-left: 520px;
 }
@@ -426,6 +430,9 @@ margin-top: -90px;
 .span12{
     float: left;
     
+}
+.span3{
+    margin-left: 40px;
 }
 .recent > .span3 {
     float: left;
